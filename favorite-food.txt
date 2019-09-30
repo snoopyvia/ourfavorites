@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Noodle is my favorite food, and then rice
+=======
+Noodle is my favorite food
+I also like fish and beef
+
+>>>>>>> add fish and beef
